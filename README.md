@@ -1,8 +1,8 @@
-## Welcome to Corporate DAO
+## Welcome to Corporate DAO ![CorpDAO_Logo](corpdao_logo.PNG)
+
 You're hired.
 You're fired.
 I need you in on Monday.
-![CorpDAO_Logo](corpdao_logo.PNG)
 
 
 ## What is Corporate DAO?
