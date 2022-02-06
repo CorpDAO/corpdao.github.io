@@ -3,6 +3,7 @@
 You're hired.
 You're fired.
 I need you in on Monday.
+## <a href="https://discord.gg/dTFACq3Srx">Join our Discord</a>
 
 
 ## What is Corporate DAO?
@@ -23,5 +24,4 @@ Corporate Dao's goal is to teach members of the DAO more about the crypto space.
 This should be a learning experience for everyone, and a good opportunity for us all to learn a little bit more about blockchain. 
 Be friendly, and prepared to teach.
 
-<a href="https://discord.gg/dTFACq3Srx">Join our Discord</a>
 
