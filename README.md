@@ -2,7 +2,7 @@
 You're hired.
 You're fired.
 I need you in on Monday.
-
+![CorpDAO_Logo](https://github.com/CorpDAO/corpdao.github.io/blob/develop/corpdao_logo.PNG)
 
 
 ## What is Corporate DAO?
