@@ -10,5 +10,5 @@ The airdrop will happen either Jan 16th / or / Jan 31, this decision will be mad
 In the meantime, please keep adding more people to the Dao. These early weeks of growth are critical to our success. The more brilliant minds we can reach, the more powerful we will become. 
 
 
-<a href="https://discord.gg/dTFACq3Srx">Join Discord</a>
+<a href="https://discord.gg/dTFACq3Srx">Join our Discord</a>
 
