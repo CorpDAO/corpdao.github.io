@@ -3,7 +3,7 @@
 You're hired.
 You're fired.
 I need you in on Monday.
-## <a href="https://discord.gg/dTFACq3Srx">Join our Discord</a> for free CorpDAO tokens! Check the #guides channel in our Discord for instructions on how to get the free tokens by registering for our airdrop.
+## <a href="https://discord.gg/dTFACq3Srx">Join our Discord</a> for free CorpDAO tokens! Check the #whitelist channel in our Discord for instructions on how to get the free tokens by registering for our airdrop.
 
 ## What is Corporate DAO?
 Corporate DAO is a decentralized organization of thinkers, innovators, and revolutionists. 
