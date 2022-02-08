@@ -14,7 +14,7 @@ Created from a joke that has either gone too far, or not far enough, we seek the
 ## What do we do?
 We will search for that answer. We will build, and we will learn.
 
-The current plan is to launch on Polygon, and do a token airdrop to every member of the Dao. More utility for CORP will be added in the future. 
+The current plan is to launch on <a href="https://polygon.technology/">Polygon</a>, and do a token airdrop to every member of the Dao. More utility for CORP will be added in the future. 
 
 The airdrop will happen either Jan 16th / or / Jan 31, this decision will be made in dao-votes  voting will close on Jan 10th
 
