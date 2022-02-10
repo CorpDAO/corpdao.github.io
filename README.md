@@ -3,7 +3,7 @@
 You're hired.
 You're fired.
 I need you in on Monday.
-## <a href="https://discord.gg/dTFACq3Srx">Join our Discord</a> and check the #whitelist channel for instructions on getting whitelisted for our airdrop of $CORP tokens!
+## <a href="https://discord.gg/dTFACq3Srx">Join our Discord</a> and check the #whitelist channel for instructions on getting whitelisted for our airdrop of $CORP tokens
 
 ## What is Corporate DAO?
 Corporate DAO is a decentralized organization of thinkers, innovators, and revolutionists. 
