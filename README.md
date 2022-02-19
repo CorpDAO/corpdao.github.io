@@ -1,4 +1,4 @@
-## Welcome to Corporate DAO ![CorpDAO_Logo](corpdao_logo.PNG)
+## Welcome to LofiMFers ![CorpDAO_Logo](corpdao_logo.PNG)
 
 You're hired.
 You're fired.
