@@ -23,3 +23,4 @@ This should be a learning experience for everyone, and a good opportunity for us
 Be friendly, and prepared to teach.
 
 
+<footer><a href="https://www.flaticon.com/free-icons/discord" title="discord icons">Discord icons created by Hight Quality Icons - Flaticon</a></footer>
