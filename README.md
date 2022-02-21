@@ -1,5 +1,4 @@
-## Welcome to LofiMFers ![lofilogo](lofilogo.PNG)
-
+## Welcome to LofiMFers 
 <!-- You're hired.
 You're fired.
 I need you in on Monday. -->
@@ -7,6 +6,9 @@ I need you in on Monday. -->
 
 ## What is LoFiMfers?
 LoFiMfers is a decentralized organization of thinkers, innovators, and revolutionists. We are currently in the launch of an NFT app for minting our own custom-made, hand-drawn NFT art. 
+![LofiLogo](lofilogo.png)
+
+
 
 
 ## What do we do?
