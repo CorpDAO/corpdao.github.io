@@ -3,7 +3,6 @@
 You're fired.
 I need you in on Monday. -->
 ## <a href="https://discord.gg/dTFACq3Srx"><img src="discord.png" alt="drawing" width="50"/>
-</a>
 
 ## What is LoFiMfers?
 LoFiMfers is a decentralized organization of thinkers, innovators, and revolutionists. We are currently in the launch of an NFT app for minting our own custom-made, hand-drawn NFT art. 
